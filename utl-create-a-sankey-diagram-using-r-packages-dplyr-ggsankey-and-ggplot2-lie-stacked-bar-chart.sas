@@ -9,7 +9,11 @@ Create a sankey diagram using r packages dplyr  ggsankey and ggplot2 lie stacked
  |___/          |_|                           |_|
 
 guthub graph
+PNG                                                                                                                                                     
+https://tinyurl.com/2srx4ame                                                                                                                            
+https://github.com/rogerjdeangelis/utl-create-a-sankey-diagram-using-r-packages-dplyr-ggsankey-and-ggplot2-lie-stacked-bar-chart/blob/main/ggsankey.png 
 you have to download to see graphic (used to work)
+PDF
 https://tinyurl.com/y3cphbyd
 https://github.com/rogerjdeangelis/utl-create-a-sankey-diagram-using-r-packages-dplyr-ggsankey-and-ggplot2-lie-stacked-bar-chart/blob/main/ggsankey.pdf
 
